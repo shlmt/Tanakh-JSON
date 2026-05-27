@@ -37,6 +37,9 @@ console.log(genesisFirstVerse);
 
 שימו לב: בקובץ `using.js` יש קוד מורכב יותר שמאפשר לקבל טווח של פסוקים. מומלץ לעיין בו לשימושים מתקדמים.
 
+כמו כן, בקובץ `complex_example_parasha.js` תוכלו למצוא דוגמה מתקדמת יותר המשתמשת ב-HEBCAL לשליפת פרשה של שבת מסוימת. 
+-> ראו גם [דוגמה לשימוש בקליינט](https://github.com/shlmt/TuvTaam/tree/main/client/angular/src/app/components/my-parasha)
+
 נשמח אם תתרמו דוגמאות שימוש נוספות. אתם מוזמנים לשלוח Pull Request עם הרעיונות שלכם, או עם שיפורים למבנה הקובץ.
 
 ## תמכו בנו
